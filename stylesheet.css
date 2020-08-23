@@ -1,0 +1,78 @@
+body{
+background:linear-gradient(56deg,black,aqua);
+}
+h1.bh{
+text-align:center;
+font-size:30px;
+color:white;
+background-image:url(895641.jpg);
+padding:20px;
+}
+.jk{
+font-size:20px;
+color:black;
+margin-right:30px;
+font-style:;
+}
+.lm{
+text-decoration:none;
+
+margin-bottom:15px;
+}
+.cb{
+padding:20px;
+padding-right:90px;
+background-image:url(911851.jpg);
+float:right;
+font-size:15px;
+margin-right:70px;
+border:2px black solid;
+}
+#a{
+color:black;
+text-decoration:none;
+background-color:grey;
+
+padding-right:10px;
+border:1px black solid;
+}
+.dk{
+float:left;
+margin-right:40px;
+font-size:20px;
+padding:20px;
+background-color:rgb(200,225,187);
+}
+.we{
+text-decoration:none;
+color:black;
+background-color:rgb(231,243,250);
+font-size:20px;
+padding:10px;
+}
+.lm a:hover{
+background-color:green;
+color:white;
+padding:6px;
+}
+.lm a{
+background-color:yellow;
+text-decoration:none;
+padding:8px;
+border-radius:8px;
+}
+.dk ul a{
+
+font-size:16px;
+text-decoration:none;
+color:grey;
+}
+.dk ul a:hover{
+padding:2px;
+color:black;
+padding:1px;
+background-color:grey;
+}
+.we p a{
+text-decoration:none;
+}
